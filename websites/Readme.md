@@ -1,1 +1,1 @@
-# Few websites which I've created while learning
+# Websites which I've created while learning
